@@ -118,7 +118,7 @@ The CatBoost model achieves high accuracy on the heart disease prediction task. 
 - **Pandas**: Data manipulation
 - **NumPy**: Numerical computing
 - **Scikit-learn**: Machine learning utilities
-- **Matplotlib & Seaborn**: Data visualization
+- **Matplotlib**: Data visualization
 - **Plotly**: Interactive visualizations
 
 ## 📁 Project Structure

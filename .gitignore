@@ -51,3 +51,6 @@ htmlcov/
 
 # Streamlit
 .streamlit/
+
+# CatBoost
+catboost_info/

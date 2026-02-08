@@ -6,13 +6,11 @@ using CatBoost and SHAP explainability.
 
 import streamlit as st
 import pandas as pd
-import numpy as np
 import pickle
 import os
 import shap
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
-from catboost import CatBoostClassifier
 
 # Page configuration
 st.set_page_config(

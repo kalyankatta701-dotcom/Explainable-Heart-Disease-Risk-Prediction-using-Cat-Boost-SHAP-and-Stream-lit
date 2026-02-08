@@ -4,7 +4,6 @@ This script trains a CatBoost classifier on heart disease data and saves the mod
 """
 
 import pandas as pd
-import numpy as np
 from catboost import CatBoostClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
